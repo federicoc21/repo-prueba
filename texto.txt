@@ -1,3 +1,2 @@
-Probando el funcionamiento de git cambiadodas
-
-cambios realizados
+Probando el funcionamiento de git cambiados
+git
